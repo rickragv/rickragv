@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ricky Singh
 
-<!--
-**rickragv/rickragv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI Engineer focused on generative AI, LLM applications, and computer vision. I work with retrieval-augmented generation, AI agents, and machine learning tools to build practical AI solutions.
 
-Here are some ideas to get you started:
+**Focus:** LLMs and RAG · AI agents · Computer vision · Python, PyTorch, and TensorFlow · Cloud and MLOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [LLM-DOCUMENT](https://github.com/rickragv/LLM-DOCUMENT) — notebooks for parsing complex documents with LLMs.
+- [object-detection-libraries](https://github.com/rickragv/object-detection-libraries) — examples using Detectron2, TensorFlow Object Detection API, and YOLO.
+- [Satellite-Image-Segmentation](https://github.com/rickragv/Satellite-Image-Segmentation) — road segmentation notebooks using U-Net and LinkNet.
+
+[LinkedIn](https://www.linkedin.com/in/ricky-singh-sw-developer)
