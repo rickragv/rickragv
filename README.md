@@ -6,8 +6,8 @@ Senior AI Engineer focused on generative AI, LLM applications, and computer visi
 
 ## Selected projects
 
-- [LLM-DOCUMENT](https://github.com/rickragv/LLM-DOCUMENT) — notebooks for parsing complex documents with LLMs.
-- [object-detection-libraries](https://github.com/rickragv/object-detection-libraries) — examples using Detectron2, TensorFlow Object Detection API, and YOLO.
-- [Satellite-Image-Segmentation](https://github.com/rickragv/Satellite-Image-Segmentation) — road segmentation notebooks using U-Net and LinkNet.
+- [AgenticWorkflow](https://github.com/rickragv/AgenticWorkflow) — an ADK planner generates validated BPMN workflows that Camunda executes, with live task status and human approval.
+- [attache-web-ml](https://github.com/rickragv/attache-web-ml) — an on-device research copilot with document retrieval, cited answers, and claim verification in the browser.
+- [inkvault.ai](https://github.com/rickragv/inkvault.ai) — an offline investigative journalism workspace powered by on-device AI.
 
 [LinkedIn](https://www.linkedin.com/in/ricky-singh-sw-developer)
