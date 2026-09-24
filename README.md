@@ -6,7 +6,7 @@ Senior AI Engineer focused on generative AI, LLM applications, and computer visi
 
 ## Selected projects
 
-- [AgenticWorkflow](https://github.com/rickragv/AgenticWorkflow) — an ADK planner generates validated BPMN workflows that Camunda executes, with live task status and human approval.
+- [AgenticWorkflow](https://github.com/rickragv/AgenticWorkflow) — an ADK planner generates validated  workflows , with live task status and human approval.
 - [attache-web-ml](https://github.com/rickragv/attache-web-ml) — an on-device research copilot with document retrieval, cited answers, and claim verification in the browser.
 - [inkvault.ai](https://github.com/rickragv/inkvault.ai) — an offline investigative journalism workspace powered by on-device AI.
 
